@@ -1,5 +1,4 @@
 require "exception_logger/engine"
-require "will_paginate"
 require 'ipaddr'
 
 module ExceptionLogger

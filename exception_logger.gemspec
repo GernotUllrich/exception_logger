@@ -19,6 +19,6 @@ Gem::Specification.new do |s|
   s.add_dependency "rails", ">= 4.0.0"
   # s.add_dependency "jquery-rails"
 
-  s.add_dependency 'will_paginate', '~> 3.0'
+  s.add_dependency 'kaminari', '~> 0.16.0'
   s.add_development_dependency "sqlite3"
 end
